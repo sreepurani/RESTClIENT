@@ -1,0 +1,4 @@
+GET {{$dotenv host}}/Students/1
+
+//get https://ec072862-f192-4047-98b9-2aa7cb34a6de.mock.pstmn.io/students/1
+content-type: application/jsonS
